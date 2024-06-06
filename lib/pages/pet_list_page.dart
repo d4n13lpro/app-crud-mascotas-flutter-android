@@ -2,8 +2,8 @@
 
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'providers/pet_app_state.dart';
-import 'models/pet.dart';
+import '../providers/pet_app_state.dart';
+import '../models/pet.dart';
 import 'edit_pet_page.dart';
 
 class PetListPage extends StatefulWidget {

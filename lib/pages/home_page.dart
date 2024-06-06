@@ -1,8 +1,6 @@
 // home_page.dart
 
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
-import 'providers/pet_app_state.dart';
 import 'add_pet_page.dart';
 import 'pet_list_page.dart';
 
